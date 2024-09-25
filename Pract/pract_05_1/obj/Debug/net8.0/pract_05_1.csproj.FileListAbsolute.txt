@@ -12,3 +12,4 @@ C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Deb
 C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.pdb
 C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.genruntimeconfig.cache
 C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\ref\pract_05_1.dll
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.sourcelink.json
