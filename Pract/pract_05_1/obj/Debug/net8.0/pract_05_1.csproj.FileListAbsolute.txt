@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\bin\Debug\net8.0\pract_05_1.exe
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\bin\Debug\net8.0\pract_05_1.deps.json
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\bin\Debug\net8.0\pract_05_1.runtimeconfig.json
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\bin\Debug\net8.0\pract_05_1.dll
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\bin\Debug\net8.0\pract_05_1.pdb
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.AssemblyInfo.cs
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.dll
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\refint\pract_05_1.dll
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.pdb
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\pract_05_1.genruntimeconfig.cache
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\pract_05_1\obj\Debug\net8.0\ref\pract_05_1.dll
