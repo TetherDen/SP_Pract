@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\bin\Debug\net8.0\Pract_07.exe
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\bin\Debug\net8.0\Pract_07.deps.json
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\bin\Debug\net8.0\Pract_07.runtimeconfig.json
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\bin\Debug\net8.0\Pract_07.dll
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\bin\Debug\net8.0\Pract_07.pdb
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.AssemblyInfo.cs
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.sourcelink.json
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.dll
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\refint\Pract_07.dll
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.pdb
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\Pract_07.genruntimeconfig.cache
+C:\Users\admin\source\repos\System_Programming\Practice\Pract\Pract_07\Pract_07\obj\Debug\net8.0\ref\Pract_07.dll

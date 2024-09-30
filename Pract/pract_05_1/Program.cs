@@ -39,20 +39,86 @@
             //Создать 3 таска, каждый передает метод свой диапазон и выполняются все вместе.После выполнения задач, 
             //вывести сообщение о том, что метод Main завершил работу.
 
-            Task task1 = Task.Factory.StartNew(() => WriteNumbers(1, 10));
-            Task task2 = Task.Factory.StartNew(() => WriteNumbers(100, 110));
-            Task task3 = Task.Factory.StartNew(() => WriteNumbers(-10, 0));
-            Task.WaitAll(task1, task2, task3);
+            //Task task1 = Task.Factory.StartNew(() => WriteNumbers(1, 10));
+            //Task task2 = Task.Factory.StartNew(() => WriteNumbers(100, 110));
+            //Task task3 = Task.Factory.StartNew(() => WriteNumbers(-10, 0));
+            //Task.WaitAll(task1, task2, task3);
 
-            Console.WriteLine("End of main");
-        }
+            //Console.WriteLine("End of main");
 
-        static void WriteNumbers(int start, int end)
-        {
-            for (int i = start; i < end; i++)
+            //===============================================
+
+            //Используя ParallelFor и отдельный метод, вывести на экран числа от 0 до 10.
+
+            //Parallel.For(1,10, i => Method1(i));
+
+            //Создать массива на 10 элементов, заполнить.Используя ParallelFor и лямбда выражение, вывести на экран элементы массива.
+            //int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            //Parallel.For(0, arr.Length, i => Method1(i));
+
+            ////Используя ParallelForeach, передать группу чисел и подсчитать сумму цифр для каждого числа.
+
+            //int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            //int sum = 0;
+            //Parallel.ForEach(arr, i =>
+            //{
+            //    sum += i;               
+            //});
+            //Console.WriteLine(sum);
+
+            //===============================================
+
+            //Создайте приложение, в котором:
+
+            //1) Первый task выводит сумму чисел от 1 до 100;
+            //2) Второй task записывает случайные 20 чисел в диапазоне от 1 до 100 в файл №1;
+            //3) Третий task считывает числа из файла №1, преобразует в двоичную систему и записывает в файл №2.
+
+            Random random = new Random();
+
+            Task task1 = Task.Run(() =>
+            {
+                int sum = 0;
+                int i = 1;
+                while (i <= 100)
+                {
+                    sum += i;
+                    i++;
+                }
+                Console.WriteLine(sum);
+            });
+
+            Task task2 = Task.Run(() =>
+            {
+                using (StreamWriter writer = new StreamWriter("task.txt"))
+                {
+                    for (int i = 0; i < 100; i++)
+                    {
+                        writer.WriteLine(random.Next(1,100));
+                    }
+                }
+            });
+
+            Console.ReadLine();
+
+
+
+
+
+            static void Method1(int i)
             {
                 Console.WriteLine(i);
             }
         }
+
+
+        //static void WriteNumbers(int start, int end)
+        //{
+        //    for (int i = start; i < end; i++)
+        //    {
+        //        Console.WriteLine(i);
+        //    }
+        //}
     }
 }
