@@ -60,9 +60,8 @@ namespace Pract_09_02
                     while (sr.Peek() != -1)
                     {
                         line = sr.ReadLine();
-                        if (line != null && line.Length > 0 && line != " ")
+                        if (line != null)
                         {
-                            line += " ";
                             fileContent.Add(line);
                         }
                     }
