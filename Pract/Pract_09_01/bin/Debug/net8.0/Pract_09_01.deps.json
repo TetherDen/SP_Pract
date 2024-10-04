@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pract_09_01/1.0.0": {
+        "dependencies": {
+          "Areas2": "1.0.0"
+        },
+        "runtime": {
+          "Pract_09_01.dll": {}
+        }
+      },
+      "Areas2/1.0.0": {
+        "runtime": {
+          "Areas2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pract_09_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Areas2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
